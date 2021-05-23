@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0.14",
+	"SemVersion": "0.0.14",
+	"FriendlyName": "ExoSuitMod",
+	"Description": "Adds an Exosuit that functions like a jetpack and blade runners",
+	"Category": "Modding",
+	"CreatedBy": "DaytripperTX",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"RemoteVersionRange": ">=0.0.12",
+	"AcceptsAnyRemoteVersion": false,
+	"Plugins": [
+    {
+      "Name": "SML",
+      "SemVersion": "^3.0.0",
+	  "Optional": false,
+	  "Enabled": true
+    }
+  ]
+}
