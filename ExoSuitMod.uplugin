@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.0.14",
-	"SemVersion": "0.0.14",
+	"VersionName": "0.0.16",
+	"SemVersion": "0.0.16",
 	"FriendlyName": "ExoSuitMod",
 	"Description": "Adds an Exosuit that functions like a jetpack and blade runners",
 	"Category": "Modding",
